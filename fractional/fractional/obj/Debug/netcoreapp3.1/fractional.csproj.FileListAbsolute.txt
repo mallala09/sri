@@ -1,0 +1,14 @@
+C:\Users\IT\source\repos\fractional\fractional\bin\Debug\netcoreapp3.1\fractional.exe
+C:\Users\IT\source\repos\fractional\fractional\bin\Debug\netcoreapp3.1\fractional.deps.json
+C:\Users\IT\source\repos\fractional\fractional\bin\Debug\netcoreapp3.1\fractional.runtimeconfig.json
+C:\Users\IT\source\repos\fractional\fractional\bin\Debug\netcoreapp3.1\fractional.runtimeconfig.dev.json
+C:\Users\IT\source\repos\fractional\fractional\bin\Debug\netcoreapp3.1\fractional.dll
+C:\Users\IT\source\repos\fractional\fractional\bin\Debug\netcoreapp3.1\fractional.pdb
+C:\Users\IT\source\repos\fractional\fractional\obj\Debug\netcoreapp3.1\fractional.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\fractional\fractional\obj\Debug\netcoreapp3.1\fractional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\source\repos\fractional\fractional\obj\Debug\netcoreapp3.1\fractional.AssemblyInfoInputs.cache
+C:\Users\IT\source\repos\fractional\fractional\obj\Debug\netcoreapp3.1\fractional.AssemblyInfo.cs
+C:\Users\IT\source\repos\fractional\fractional\obj\Debug\netcoreapp3.1\fractional.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\fractional\fractional\obj\Debug\netcoreapp3.1\fractional.dll
+C:\Users\IT\source\repos\fractional\fractional\obj\Debug\netcoreapp3.1\fractional.pdb
+C:\Users\IT\source\repos\fractional\fractional\obj\Debug\netcoreapp3.1\fractional.genruntimeconfig.cache
